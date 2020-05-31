@@ -66,7 +66,7 @@ In this post we'll be going through
 2. pip install beautifulsoup4
 
 ## Contents
-1. Tutorial.ipynb (Notebook) - How to inspect & analyze a webpage for web scraping
+1. Web Scraping Tutorial.ipynb (Notebook) - How to inspect & analyze a webpage for web scraping
 2. Anime Website Data Scraping.ipynb (Notebook) - How to get started with web scraping & Collect Unstructured Data in a Structured Format
 
 
