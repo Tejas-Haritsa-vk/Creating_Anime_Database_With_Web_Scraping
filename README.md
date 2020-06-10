@@ -1,4 +1,4 @@
-# Creating Anime Database With Web_Scraping
+# Creating Anime Database With Web Scraping
 
 <p align="center">
   <img width="800" height="450" src="https://github.com/Tejas-Haritsa-vk/Creating_Anime_Database_With_Web_Scraping/blob/master/Images/python_data_scraping.jpg">
